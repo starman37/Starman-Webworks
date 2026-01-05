@@ -74,7 +74,7 @@ const Projects = () => {
                 ))}
             </div>
             <div className="flex justify-between items-center">
-                <a href="hhttps://starman37.github.io/KR_Portfolio/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View this project</a>
+                <a href="https://starman37.github.io/KR_Portfolio/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View this project</a>
             </div>
             
         </div>
